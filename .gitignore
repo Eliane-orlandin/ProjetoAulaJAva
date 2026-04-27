@@ -1,0 +1,22 @@
+# Compilados
+*.class
+
+# Logs
+*.log
+
+# Diretórios de build
+/target/
+/bin/
+/build/
+
+# Configurações Eclipse/STS
+.classpath
+.project
+.settings/
+
+# Configurações IntelliJ
+.idea/
+*.iml
+
+# Arquivos do SO
+.DS_Store
